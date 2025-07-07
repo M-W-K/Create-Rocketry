@@ -1,0 +1,13 @@
+{
+  "itemGroup.createrocketry": "Example Mod Tab",
+  "block.createrocketry.example_block": "Example Block",
+  "item.createrocketry.example_item": "Example Item",
+
+  "createrocketry.configuration.title": "Create: Rocketry Configs",
+  "createrocketry.configuration.section.createrocketry.common.toml": "Create: Rocketry Configs",
+  "createrocketry.configuration.section.createrocketry.common.toml.title": "Create: Rocketry Configs",
+  "createrocketry.configuration.items": "Item List",
+  "createrocketry.configuration.logDirtBlock": "Log Dirt Block",
+  "createrocketry.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createrocketry.configuration.magicNumber": "Magic Number"
+}
