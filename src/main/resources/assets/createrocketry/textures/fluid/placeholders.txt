@@ -1,0 +1,3 @@
+These fluid textures are placeholder reskins of the water texture.
+I'm not very good at creating wholly new textures, so actual fluid textures are beyond me.
+Actual textures for these fluids would be greatly appreciated.

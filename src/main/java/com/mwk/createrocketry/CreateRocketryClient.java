@@ -1,5 +1,7 @@
 package com.mwk.createrocketry;
 
+import com.mwk.createrocketry.ponders.CRPonders;
+import net.createmod.ponder.foundation.PonderIndex;
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -24,8 +26,6 @@ public class CreateRocketryClient {
 
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
-        // Some client setup code
-        CreateRocketry.LOGGER.info("HELLO FROM CLIENT SETUP");
-        CreateRocketry.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+        PonderIndex.addPlugin(new CRPonders());
     }
 }

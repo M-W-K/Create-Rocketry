@@ -1,0 +1,8 @@
+{
+  "itemGroup.createrocketry.base": "Create: Rocketry",
+  "item.createrocketry.smithing_template.beryllium_bronze.applies_to": "Iron Tools",
+  "item.createrocketry.smithing_template.beryllium_bronze.ingredients": "Beryllium Bronze Sheet",
+  "upgrade.createrocketry.beryllium_bronze": "Nonsparking Upgrade",
+  "item.createrocketry.smithing_template.beryllium_bronze.base_slot_description": "Add iron weapon or tool",
+  "item.createrocketry.smithing_template.beryllium_bronze.additions_slot_description": "Add Beryllium Bronze Sheet"
+}

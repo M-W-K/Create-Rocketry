@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "c:storage_blocks/brass"
+    },
+    "S": {
+      "item": "create:railway_casing"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SCS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createrocketry:beryllium_bronze_smithing_template"
+  }
+}

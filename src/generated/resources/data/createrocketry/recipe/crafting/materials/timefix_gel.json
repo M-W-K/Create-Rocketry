@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createrocketry:timefix_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createrocketry:timefix_gel"
+  }
+}

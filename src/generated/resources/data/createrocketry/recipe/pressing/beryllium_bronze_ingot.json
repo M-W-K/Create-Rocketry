@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createrocketry:beryllium_bronze_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "createrocketry:beryllium_bronze_sheet"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 750,
+      "fluid": "createrocketry:beryllium_slurry"
+    }
+  ],
+  "results": [
+    {
+      "id": "createrocketry:beryllium_ingot"
+    }
+  ]
+}

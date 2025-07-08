@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "createrocketry:fluid/beryllium_slurry_flow"
+    },
+    {
+      "type": "single",
+      "resource": "createrocketry:fluid/beryllium_slurry_still"
+    },
+    {
+      "type": "single",
+      "resource": "createrocketry:fluid/timeslip_flux_flow"
+    },
+    {
+      "type": "single",
+      "resource": "createrocketry:fluid/timeslip_flux_still"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "createrocketry:beryllium_slurry"
+    }
+  ],
+  "results": [
+    {
+      "id": "createrocketry:beryllium_nugget"
+    }
+  ]
+}

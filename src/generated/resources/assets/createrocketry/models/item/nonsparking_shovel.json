@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "createrocketry:item/nonsparking_shovel"
+  }
+}

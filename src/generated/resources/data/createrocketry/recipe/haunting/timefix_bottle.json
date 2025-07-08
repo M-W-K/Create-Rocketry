@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "createrocketry:timeslip_bottle"
+    }
+  ],
+  "results": [
+    {
+      "id": "createrocketry:timefix_bottle"
+    }
+  ]
+}

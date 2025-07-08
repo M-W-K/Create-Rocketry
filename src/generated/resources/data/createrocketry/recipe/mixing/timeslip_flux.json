@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:dusts/obsidian"
+    },
+    {
+      "tag": "c:gems/amethyst"
+    },
+    {
+      "item": "minecraft:end_crystal"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:ghast_tear"
+    },
+    {
+      "amount": 1000,
+      "id": "createrocketry:timeslip_flux"
+    }
+  ]
+}
