@@ -1,3 +1,15 @@
 {
+  "item.createrocketry.timeslip_bottle.tooltip.summary": "Gives extra time to objects. Critical to low computation power space travel.",
+  "item.createrocketry.timeslip_bottle.tooltip.condition1": "Drink",
+  "item.createrocketry.timeslip_bottle.tooltip.behaviour1": "Gives _Speed_ and _Haste_ at the cost of enhanced _Hunger_, for a limited time.",
+  "item.createrocketry.timeslip_bottle.tooltip.condition2": "Use on block",
+  "item.createrocketry.timeslip_bottle.tooltip.behaviour2": "Greatly _accelerates_ plant _growth_. _Skips_ mechanisms _forward_ in _time_.",
+  "item.createrocketry.timeslip_bottle.tooltip.condition3": "Use on entity",
+  "item.createrocketry.timeslip_bottle.tooltip.behaviour3": "_Skips_ the entity _forward_ in _time_.",
 
+  "item.createrocketry.nonsparking_sword.tooltip.summary": "Tripled durability and slightly increased performance. Most importantly, prevents sparking, which is useful if you don't want to explode.",
+  "item.createrocketry.nonsparking_shovel.tooltip.summary": "Tripled durability and slightly increased performance. Most importantly, prevents sparking, which is useful if you don't want to explode.",
+  "item.createrocketry.nonsparking_pickaxe.tooltip.summary": "Tripled durability and slightly increased performance. Most importantly, prevents sparking, which is useful if you don't want to explode.",
+  "item.createrocketry.nonsparking_axe.tooltip.summary": "Tripled durability and slightly increased performance. Most importantly, prevents sparking, which is useful if you don't want to explode.",
+  "item.createrocketry.nonsparking_hoe.tooltip.summary": "Tripled durability and slightly increased performance. Most importantly, prevents sparking, which is useful if you don't want to explode."
 }

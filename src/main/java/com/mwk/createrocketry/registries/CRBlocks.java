@@ -25,6 +25,7 @@ public class CRBlocks {
             .transform(tagBlockAndItem("storage_blocks/beryllium"))
             .tag(Tags.Items.STORAGE_BLOCKS)
             .build()
+            .lang("Block of Beryllium")
             .register();
 
     public static final BlockEntry<Block> BERYLLIUM_BRONZE_BLOCK = REGISTRATE
@@ -36,6 +37,7 @@ public class CRBlocks {
             .transform(tagBlockAndItem("storage_blocks/beryllium_bronze"))
             .tag(Tags.Items.STORAGE_BLOCKS)
             .build()
+            .lang("Block of Beryllium Bronze")
             .register();
 
 

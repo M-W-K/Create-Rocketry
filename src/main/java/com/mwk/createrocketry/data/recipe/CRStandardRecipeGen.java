@@ -129,8 +129,8 @@ public class CRStandardRecipeGen extends BaseRecipeProvider {
 
     BERYLLIUM_BRONZE_SMITHING_TEMPLATE = create(CRItems.BERYLLIUM_BRONZE_SMITHING_TEMPLATE)
             .unlockedBy(CRItems.BERYLLIUM_BRONZE_INGOT)
-            .viaShaped(b -> b.define('S', AllBlocks.RAILWAY_CASING)
-            .define('C', commonItemTag("storage_blocks/brass"))
+            .viaShaped(b -> b.define('S', Tags.Items.OBSIDIANS_NORMAL)
+            .define('C', Tags.Items.STORAGE_BLOCKS_GOLD)
                     .pattern("SCS")
                     .pattern("SCS")
                     .pattern("SSS"));

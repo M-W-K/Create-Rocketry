@@ -1,10 +1,12 @@
-// 1.21.1	2025-07-07T21:06:15.22717	Registrate Provider for createrocketry [Registries, Data Maps, Recipes, Advancements, Loot Tables, Tags (enchantments), Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider]
+// 1.21.1	2025-07-08T12:57:47.404481	Registrate Provider for createrocketry [Registries, Data Maps, Recipes, Advancements, Loot Tables, Tags (enchantments), Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider]
 2502ba163a6feefc9ad44f08498058b6804db976 assets/createrocketry/blockstates/beryllium_block.json
 47b43490cb347fe24e4aa4ac8be8e8a0d599cf45 assets/createrocketry/blockstates/beryllium_bronze_block.json
-8fe3b3bd66e2f1ac6c4446530a62797be9fe1a1a assets/createrocketry/lang/en_ud.json
-556f9aedf42516b474d1f65212bc94d4f0c3499b assets/createrocketry/lang/en_us.json
+5f962ee06ec0f42a6049cad7dae4de3d469cbbd8 assets/createrocketry/blockstates/beryllium_slurry.json
+0fc29c43c9e5ed5c6de9ff05c8a32754d9ea16c9 assets/createrocketry/lang/en_ud.json
+75b8c3331039305bb52deb1b548b71d0658d8d36 assets/createrocketry/lang/en_us.json
 26c0e89cb08c88f9403a1ded77a5e0ceb1096b61 assets/createrocketry/models/block/beryllium_block.json
 1105ee733030c2b5ce177e455ac255824c640168 assets/createrocketry/models/block/beryllium_bronze_block.json
+418170da0a3830a11040ab1ca7d9ef821813a1e0 assets/createrocketry/models/block/beryllium_slurry.json
 d41301d36ed4df8e81d1019680e25b6d8cbd0345 assets/createrocketry/models/item/beryllium_block.json
 2b2069e97035f3374a43178f311da5eb358237ac assets/createrocketry/models/item/beryllium_bronze_block.json
 d5c09ca8168c8e6d4fa3e8e8bf92e5272df49055 assets/createrocketry/models/item/beryllium_bronze_ingot.json
@@ -14,6 +16,7 @@ e5546c6b3a97c0e6e55c3818b4a2775b4c8961ac assets/createrocketry/models/item/beryl
 26945cb798294f57dc8bb8f026779ea3d23ab63a assets/createrocketry/models/item/beryllium_ingot.json
 35d8e93b45a42e5343d5dd9bc13ee3970b16512c assets/createrocketry/models/item/beryllium_nugget.json
 57e661043cf3f029031731c5cd82b55db32e3768 assets/createrocketry/models/item/beryllium_sheet.json
+8d8ac165226ca808f7064f622de257fce99727b4 assets/createrocketry/models/item/beryllium_slurry_bucket.json
 d247c4ea48adfbf47af3d67a16352d8f0e557f8d assets/createrocketry/models/item/nonsparking_axe.json
 6352a447c6a858d842ea2d034753db94ba69b358 assets/createrocketry/models/item/nonsparking_hoe.json
 76cd2447badf638e5f611b0ebfd4a0ccf926fc55 assets/createrocketry/models/item/nonsparking_pickaxe.json

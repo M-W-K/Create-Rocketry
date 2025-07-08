@@ -7,6 +7,7 @@ import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.material.Fluid;
 import net.minecraft.world.level.material.FluidState;
 import net.minecraft.world.level.material.Fluids;
+import net.minecraft.world.level.material.MapColor;
 import net.neoforged.neoforge.common.NeoForgeMod;
 import net.neoforged.neoforge.fluids.BaseFlowingFluid;
 import net.neoforged.neoforge.fluids.FluidInteractionRegistry;
@@ -21,8 +22,22 @@ public class CRFluids {
         REGISTRATE.setCreativeTab(CRCreativeTabs.BASE_CREATIVE_TAB);
     }
 
-    public static FluidEntry<VirtualFluid> BERYLLIUM_SLURRY = REGISTRATE.virtualFluid("beryllium_slurry")
-            .lang("Beryllium Slurry").register();
+    public static FluidEntry<BaseFlowingFluid.Flowing> BERYLLIUM_SLURRY = REGISTRATE
+            .standardFluid("beryllium_slurry")
+            .lang("Beryllium Slurry")
+            .properties(b -> b.viscosity(3000)
+                    .density(4000))
+            .fluidProperties(p -> p.levelDecreasePerBlock(3)
+                    .tickRate(100)
+                    .slopeFindDistance(3)
+                    .explosionResistance(1000f))
+            .source(BaseFlowingFluid.Source::new)
+            .block()
+            .properties(p -> p.mapColor(MapColor.COLOR_GREEN))
+            .build()
+            .bucket()
+            .build()
+            .register();
 
     // TODO make this a blockfluid; implement timefix gel stabilization, hurt entities that touch the fluid without it
     // also rapidly increment item lifetimes, so they despawn much faster, for maximum rude

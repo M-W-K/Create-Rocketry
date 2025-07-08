@@ -1,4 +1,4 @@
-// 1.21.1	2025-07-07T20:39:19.722947	Create: Rocketry's Standard Recipes
+// 1.21.1	2025-07-08T12:54:27.851087	Create: Rocketry's Standard Recipes
 5820ee8b25cb5c828a64913f6e546e9def079698 data/createrocketry/advancement/recipes/combat/crafting/tools/nonsparking_axe.json
 732ebb1815dce4b5e1dff2bc35edacb6a4285fd3 data/createrocketry/advancement/recipes/combat/crafting/tools/nonsparking_hoe.json
 4d7bc27f072244c997d3cc295b2078bd313cfb24 data/createrocketry/advancement/recipes/combat/crafting/tools/nonsparking_pickaxe.json
@@ -26,7 +26,7 @@ d9b739231fcbf031dd2f69d56ff1c47ecef0496f data/createrocketry/recipe/crafting/mat
 a10af6f7f9c0084ba051644c49185ad906d6699f data/createrocketry/recipe/crafting/materials/beryllium_ingot_from_block.json
 a526f6e1e39f186628e01edc1f4146a8c1ed6384 data/createrocketry/recipe/crafting/materials/beryllium_nugget.json
 7338f4ac0f4b50d980366aa90a25000a19d04ce4 data/createrocketry/recipe/crafting/materials/timefix_gel.json
-28c21d1798ceaccea6057e74210dc6880be8cd90 data/createrocketry/recipe/crafting/tools/beryllium_bronze_smithing_template.json
+2c3407f06ca248a200e871400ae762b622e5c7b5 data/createrocketry/recipe/crafting/tools/beryllium_bronze_smithing_template.json
 f3e68ca45b4567ee8f48154b632fb5bbd6c268d1 data/createrocketry/recipe/crafting/tools/beryllium_bronze_smithing_template_replicate.json
 11cca8f069af5a3e3b177bf19cacd3398961886b data/createrocketry/recipe/crafting/tools/nonsparking_axe.json
 53b26ad902b5596f65f79cae4314497ef9687900 data/createrocketry/recipe/crafting/tools/nonsparking_hoe.json

@@ -15,11 +15,7 @@
   ],
   "results": [
     {
-      "id": "minecraft:bucket"
-    },
-    {
-      "amount": 500,
-      "id": "createrocketry:beryllium_slurry"
+      "id": "createrocketry:beryllium_slurry_bucket"
     }
   ]
 }
